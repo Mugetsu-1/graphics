@@ -124,10 +124,9 @@ public:
         }
     }
 };
-/*
+
 int main() {
     Cube cube;
     cube.demonstrate();
     return 0;
 }
-*/
